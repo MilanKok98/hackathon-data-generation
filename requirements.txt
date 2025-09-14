@@ -1,0 +1,3 @@
+Faker==37.6.0       # latest version of Faker as of Aug 26, 2025 :contentReference[oaicite:0]{index=0}
+pandas==2.3.2       # latest version of pandas as of Aug 21, 2025 :contentReference[oaicite:1]{index=1}
+matplotlib==3.9.1   # latest version of matplotlib as of Aug 21, 2025 :contentReference[oaicite:2]{index=2}
