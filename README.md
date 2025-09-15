@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a Python script for generating **synthetic transaction data** for the upcoming **DataBricks Hackathon**. The goal is to create realistic financial transaction datasets that simulate individual and company behavior, suitable for testing analytics, machine learning, and fraud detection pipelines.
+This repository contains a Python script for generating **synthetic transaction data** for the upcoming **DataBricks Hackathon**. The goal is to create realistic financial transaction datasets that simulate individual and company behavior, suitable for testing analytics and machine learning.
 
 The script uses `Faker` and randomization techniques to generate a configurable number of transactions across a fixed number of accounts, including running balances and realistic transaction categories.
 
